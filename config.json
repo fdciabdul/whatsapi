@@ -1,0 +1,8 @@
+{
+    "port":59860,
+    "webhook":{
+        "enabled":false,
+        "path":""
+    },
+    "headless":false
+}
